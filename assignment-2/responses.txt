@@ -1,0 +1,4 @@
+Data travels on the internet with binary code, a system that uses either a 1 or a 0 to convey information
+The DNS (Domain Name System) is connected to specific IP addresses, making it easier for a user on the internet to find a specific website
+A cookie is a packet of data sent to a browser used to track individual servers
+The three basic parts of a URL are the protocol, the domain name, and the path 
