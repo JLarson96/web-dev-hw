@@ -32,3 +32,9 @@ body {
   color: #780116;
   text-align: center;
 }
+#tiki
+{
+  position: absolute;
+  right:0;
+  bottom: 10px;
+}
