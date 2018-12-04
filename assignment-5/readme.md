@@ -1,4 +1,4 @@
-#Assignment 5
+# Assignment 5
 I decided to go with the 1950's for my project.  I tried to use the graphics in a way
 that I thought reflects the nature of the 1950's style.
 I found a color palette on coolors.com, and used several that I thought matched my graphics quite well.
