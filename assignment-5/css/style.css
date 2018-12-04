@@ -1,6 +1,14 @@
+.main-container
+{
+  border-style: dotted;
+  border-width: medium;
+  border-color: #780116
+}
 h1 {
-  color: purple
+  color: #780116;
+  text-align: center;
+  border:
 }
 body {
-  background-color: blue
+  background-color: #F7B538
 }
