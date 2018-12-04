@@ -1,8 +1,12 @@
 .text-container
 {
+  background-color: #D8572A;
   border-style: dotted;
   border-width: medium;
-  border-color: #780116
+  border-color: #780116;
+  padding: 30%;
+  
+
 }
 h1 {
   color: #780116;
@@ -13,9 +17,4 @@ h1 {
 }
 body {
   background-color: #F7B538
-}
-red
-{
-  color: #C32F27;
-  
 }
