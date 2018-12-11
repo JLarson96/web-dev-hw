@@ -1,0 +1,41 @@
+@font-face {
+  font-family: Charmonman;
+  src: url(../fonts/Charmonman-Bold.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Charmonman;
+  src: url(../fonts/Charmonman-Regular.ttf);
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: Noto_Sans_JP;
+  src: url(../fonts/NotoSansJP-Black.otf);
+  font-weight: normal;
+  font-style: normal;
+  }
+
+  @font-face {
+    font-family: Noto_Sans_JP;
+    src: url(../fonts/NotoSansJP-Bold.otf);
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: Noto_Serif_SC;
+    src: url(../fonts/NotoSerifSC-Black.otf);
+    font-weight: normal;
+    font-style: normal;
+  }
+
+  @font-face {
+    font-family: Noto_Serif_SC;
+    src: url(../fonts/NotoSerifSC-Bold.otf);
+    font-weight: normal;
+    font-style: normal;
+  }

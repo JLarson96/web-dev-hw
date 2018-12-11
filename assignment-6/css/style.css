@@ -1,0 +1,46 @@
+.background{
+  background-color: blue;
+}
+.main-text {
+  font-family: serif;
+  background-color: green;
+  text-align: center;
+  width: 60%;
+  margin: 0 auto;
+  border: solid;
+  border-width: thick;
+  border-color: yellow;
+}
+
+.poem{
+  font-family: serif;
+  font-size: 16px;
+}
+.title {
+  font-family:cursive;
+  font-size: 40px;
+  text-align: center;
+  letter-spacing: 90%;
+}
+.title p::first-letter{
+  color: red;
+}
+.by-shakespeare{
+  font-family: cursive;
+  font-size: 20px;
+}
+
+#button-container {
+  width: 15em;
+  height: 4em;
+  margin: auto;
+  border: solid;
+  border-color: red;
+  border-width: medium;
+}
+a:visited{
+  color: orange;
+}
+a:hover{
+  color: purple;
+}
