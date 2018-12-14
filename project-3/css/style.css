@@ -1,0 +1,42 @@
+.title {
+  position: absolute;
+  top: 80px;
+  border-style: double;
+  border-width: thick;
+  border-color: #DAA520;
+  background-color: #DCDCDC;
+  opacity: .8;
+  padding: .3em;
+  width: 100%;
+}
+h1 {
+  color: #DAA5;
+  font-size: 80px;
+  font-family: serif;
+  font-style: italic;
+  opacity: 1;
+  margin: 0;
+  text-align: center;
+}
+.links {
+position: absolute;
+bottom: 140px;
+}
+li {
+  display: inline;
+  background-color: #F5DEB3;
+  font-size: 50px;
+  opacity: .8;
+  border-style: double;
+  border-width: thick;
+  border-color: #DAA520;
+}
+a:hover {
+  color: #DAA520;
+}
+a:visited {
+  color: #DAA5;
+}
+background{
+  z-index: -1;
+}
